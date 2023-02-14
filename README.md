@@ -19,7 +19,7 @@ O desafio da calculadora do evento #boracodar 05 da Rocketseat consiste em criar
 <br>
 
 <p align="center">
-  <img alt="Calculadora" src="" width="100%">
+  <img alt="Calculadora" src="https://github.com/gutoayres/calculator/blob/main/assets/calculator.png" width="100%">
 </p>
  
 ## 🚀 Tecnologias
@@ -32,13 +32,13 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Social Tree é um desafio (iniciantes) da Rocketseat para treinar HTML e CSS
+O evento #boracodar da Rocketseat com o Mayk Brito traz um desafio semanal para treinar HTML e CSS.
 
-- [Visite o projeto online](https://gutoayres.github.io/html-challenges)
+- [Visite o projeto online](https://gutoayres.github.io/calculator)
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/FvNAFSLChquX9oo46Y3unH/DD-%2F-Social-links-(Copy)?node-id=120%3A19&t=h3rfnJB0bOOn6XS6-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/3uT8ggTyOWE2wFHXd1UEg5/%23boraCodar---Desafio-5-(Community)?node-id=1%3A61&t=btJlGNbYA9UvTaZx-1). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
